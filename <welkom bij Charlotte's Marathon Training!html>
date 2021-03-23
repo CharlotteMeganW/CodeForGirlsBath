@@ -8,3 +8,90 @@
     </body>
 </html>
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Marathon Trainingsprogramma!</title>
+</head>
+<body>
+  <!-- Deze website is gebouwd om de vijf belangrijkste stappen voor het lopen van een marathon te doorlopen ..."../index.html">Page 1</a>
+</body>
+</html>
+
+<!-- Codes by HTML.am -->
+
+<!-- CSS Code -->
+<style type="text/css" scoped>
+table.GeneratedTable {
+width:150%;
+background-color:#FFFF99;
+border-collapse:collapse;border-width:1px;
+border-color:#336600;
+border-style:solid;
+color:#000000;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+border-width:1px;
+border-color:#336600;
+border-style:solid;
+padding:3px;
+}
+
+table.GeneratedTable thead {
+background-color:#CCFF99;
+}
+</style>
+
+<img src=”
+
+<!-- HTML Code -->
+<table class="GeneratedTable">
+<thead>
+<tr>
+<th>Week</th>
+<th>Maandag</th>
+<th>Woensdag</th>
+<th>Vrijdag</th>
+<th>Zaterdag</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Week 1</td>
+<td>Week 2</td>
+<td>Week 3</td>
+<td>Week 4</td>
+<td>Week 5</td>
+</tr>
+<tr>
+<td>8 km joggen, offroad</td>
+<td>10 km stabiel, langzaam beginnend</td>
+<td>10 km, incl. 14 x 30 seconden bergop</td>
+<td>13km in een stevig tempo</td>
+<td>Row 2, Cell 5</td>
+</tr>
+<tr>
+<td>Rust of 5 km, alleen joggen</td>
+<td>Row 3, Cell 2</td>
+<td>Row 3, Cell 3</td>
+<td>Row 3, Cell 4</td>
+<td>Row 3, Cell 5</td>
+</tr>
+<tr>
+<td>Row 4, Cell 1</td>
+<td>Row 4, Cell 2</td>
+<td>Row 4, Cell 3</td>
+<td>Row 4, Cell 4</td>
+<td>Row 4, Cell 5</td>
+</tr>
+<tr>
+<td>Row 5, Cell 1</td>
+<td>Row 5, Cell 2</td>
+<td>Row 5, Cell 3</td>
+<td>Row 5, Cell 4</td>
+<td>Row 5, Cell 5</td>
+</tr>
+</tbody>
+</table>
